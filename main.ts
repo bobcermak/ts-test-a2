@@ -42,4 +42,6 @@ for (let i of znamky) {
 
 
 
+
+
 console.logValue("šprti: ", novySeznam)
